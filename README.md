@@ -10,12 +10,12 @@ Para este proyeto de ingenieria, realize los siguientes pasos tecnicos:
 
 ## 📊 Vissualisación de Resultados
 
-### Matris de Confusión
+### Matriz de Confusión
 Esta grafica nos muestra que tan bien el modelo adivina quien se va y quien se queda. Ayuda a ver los falsos positivos.
 
 ![Matris de Confusion](1.png)
 
-### Importansia de las Variables
+### Importancia de las Variables
 Aqui podemos ver cuales son los factores que mas "pesan" en la desisión del cliente segun el modelo de Random Forest.
 
 ![Importansia de Variables](2.png)
@@ -24,7 +24,6 @@ Aqui podemos ver cuales son los factores que mas "pesan" en la desisión del cli
 Tras evaluar los modelos, el **Random Forest** demostro ser el mas preciso. Los hallasgos mas importantes son:
 - El **Tipo de Contrato** es el factor mas critico para la evasion.
 - Los clientes con cargos mensuales altos tienen un riesgo mayor segun los coefisientes del modelo.
-- **Recomendasión:** Implementar un sistema de alertas cuando el gasto mensual supere los $70 USD en contratos de mes a mes.
+- **Recomendación:** Implementar un sistema de alertas cuando el gasto mensual supere los $70 USD en contratos de mes a mes.
 
----
-*Analista Junior de ML - UPIITA*
+
